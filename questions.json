@@ -1,0 +1,58 @@
+[
+    {
+      "question": "What is the file extension for Node.js modules?",
+      "options": ["js", "node", "npm", "mjs"],
+      "answer": "js"
+    },
+    {
+      "question": "Which function is used to include modules in Node.js?",
+      "options": ["import", "require", "include", "use"],
+      "answer": "require"
+    },
+   {
+    "question": "Which of the following are examples of node modules?",
+      "options": ["Express", "Body-parser", "socket.io", "All the above"],
+      "answer": "All the above"
+   },
+   {
+    "question": "What is the full form of npm?",
+      "options": ["Node project manager", "Node package manager", "New project manager", "New package manager"],
+      "answer": "Node package manager"
+   },
+   {
+    "question": "In Node.js, which of the following is an in-built event emitter?",
+    "options": ["EventEmitter", "Events", "EventLoop", "EventYield"],
+    "answer": "EventEmitter"
+  },
+  {
+    "question": "What is the Node.js event loop?",
+    "options": [
+      "A loop that emits custom events",
+      "A loop that continuously checks for events and processes them",
+      "A mechanism to define custom events",
+      "The main process of a Node.js application"
+    ],
+    "answer": "A loop that continuously checks for events and processes them"
+  },
+  {
+    "question": "Which utility allows you to automatically restart a Node application when changes are detected?",
+    "options": ["NodeLive", "NodeReload", "Nodemon", "AutoNode"],
+    "answer": "Nodemon"
+  },
+  {
+    "question": "Which of the following is NOT a core module in Node.js?",
+    "options": ["fs", "http", "express", "url"],
+    "answer": "express"
+  },
+  {
+    "question": "In which object are all the environment variables stored in a Node.js application?",
+    "options": ["env", "process.env", "node.env", "app.env"],
+    "answer": "process.env"
+  },
+  {
+    "question": "In a Node.js application, which method is used to send a JSON response back from a server?",
+    "options": ["res.json()", "res.sendJSON()", "res.returnJSON()", "res.pushJSON()"],
+    "answer": "res.json()"
+  }
+   
+  ]
